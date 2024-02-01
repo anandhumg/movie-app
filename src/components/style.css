@@ -1,0 +1,67 @@
+.background-image {
+    min-height: 480px;
+    padding: 32px 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-color: rgb(26, 26, 26);
+    position: relative;
+    margin: 10px 0;
+    background-image: linear-gradient(90deg, #1A1A1A 24.97%, #1A1A1A 38.3%, rgba(26, 26, 26, 0.0409746) 97.47%, #1A1A1A 100%)
+}
+
+.details-tab {
+    -webkit-box-align: center;
+    display: flex;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 1240px;
+    margin: 0px auto;
+    position: relative;
+    width: 100%;
+    color: white;
+}
+
+.card-details {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    padding-left: 32px;
+    max-width: 520px;
+}
+
+.details-sub {
+
+    align-items: center;
+    margin-top: 100px;
+}
+
+.book-ticket-button {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.booking-section {
+    display: flex;
+    background-color: #f0f0f0;
+}
+
+.form-details {
+    align-items: center;
+    justify-content: center;
+    margin: 50px 200px;
+
+}
+
+.summary {
+    margin-bottom: 200px;
+}
+.shows-list{
+    margin: 0 100px;
+}
