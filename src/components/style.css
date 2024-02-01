@@ -52,6 +52,10 @@
     background-color: #f0f0f0;
 }
 
+
 .summary {
     margin-bottom: 200px;
+}
+.shows-list{
+    margin: 0 100px;
 }
